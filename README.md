@@ -1,0 +1,10 @@
+Campo & Cidade: A Dança da Conexão Essencial
+Este projeto em p5.js é uma janela animada para a conexão indissolúvel entre o campo e a cidade. Não é um jogo tradicional, mas uma narrativa visual interativa que desenha a jornada do sustento e da inovação.
+
+A cena se desdobra com um caminhão detalhado emergindo de um campo vibrante, repleto de plantações em linhas visíveis, árvores robustas e flores delicadas que pontuam a paisagem verde. Este cenário rural, cuidadosamente desenhado com tons de grama e terra, sublinha a origem de tudo: a matéria-prima. O caminhão, com sua caixa de carga tridimensional e frutas coloridas visíveis, embarca no que é mais que uma viagem; é a transferência da essência da terra.
+
+A estrada, uma faixa cinza sólida, atua como a artéria vital que conecta os dois mundos, sem misturar seus solos distintos. No horizonte, uma cidade moderna se ergue, com prédios de alturas variadas, janelas que brilham com luzes acesas e apagadas, e uma fábrica/centro de distribuição que representa o coração da transformação. O céu transita de um azul claro para um entardecer alaranjado, pontuado por nuvens agrupadas e um sol no campo, trocando lugar com a lua e as estrelas na cidade, marcando a passagem do tempo e a mudança de ambiente.
+
+Ao chegar na cidade, o caminhão realiza sua entrega simbólica, e então desaparece de cena, enquanto a fábrica pulsa com uma animação de "bolhas" coloridas – representando a matéria-prima se tornando produtos transformados, como pães, sucos e até chips de tecnologia.
+
+O objetivo deste projeto para o concurso Agrinho é claro: ilustrar a profunda interdependência entre o rural e o urbano. Ele quer mostrar que o campo é o alicerce que nutre com seus recursos primários, e a cidade é a força que inova e transforma esses recursos. Através desta jornada visual, celebramos a harmonia e a força dessa parceria, ecoando a mensagem de que "Festejando a conexão campo-cidade: O campo nutre com alimentos, a cidade impulsiona com tecnologia. Juntos, construímos o futuro!".
