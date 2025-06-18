@@ -1,4 +1,3 @@
-Campo & Cidade: A Dança da Conexão Essencial
 Este projeto em p5.js é uma janela animada para a conexão indissolúvel entre o campo e a cidade. Não é um jogo tradicional, mas uma narrativa visual interativa que desenha a jornada do sustento e da inovação.
 
 A cena se desdobra com um caminhão detalhado emergindo de um campo vibrante, repleto de plantações em linhas visíveis, árvores robustas e flores delicadas que pontuam a paisagem verde. Este cenário rural, cuidadosamente desenhado com tons de grama e terra, sublinha a origem de tudo: a matéria-prima. O caminhão, com sua caixa de carga tridimensional e frutas coloridas visíveis, embarca no que é mais que uma viagem; é a transferência da essência da terra.
